@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+.venv
+env/
+dist/
+build/
+*.egg-info/
+
+# Frontend (Node.js/React)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+frontend/coverage/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+baslat.bat
